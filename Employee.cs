@@ -1,5 +1,5 @@
-Public class Employee{
+public class Employee{
   public void GetInfo(){
-   console.writeline("Employee Details");
+   Console.WriteLine("Employee Details");
   }  
 }
